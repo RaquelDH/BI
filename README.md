@@ -10,9 +10,3 @@
 8. **Análisis de datos en Excel con Power Pivot** (40 h) - Fundación Integra Digital
 9. **Data Science: programar en R y Rstudio** - IEBS Business School
 10. **Business Intelligence y análisis de Big Data** (60 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
-
-### 2022-2024: Formación en Inteligencia Artificial (IA) (más de 500 horas)
-
-1. **Inteligencia artificial (IA) aplicada a la empresa** (250 h) - Dicampus Centro de aprendizaje Parque Científico y Tecnológico
-2. **Machine Learning aplicado usando Python** (240 h) - Índice Formación y Consultoría
-3. **Autómatas programables** (50 h) - DKA Centro de formación
