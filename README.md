@@ -1,4 +1,4 @@
-### 2022-2024: Formación en Big Data, BI & Artificial Intelligence (AI) (más de 1300 horas) ✔️🔥💻
+### 2022-2024: Formación en Big Data & Business Intelligence (BI) (más de 1300 horas) ✔️🔥💻
 
 1. **Data Mining: principios y aplicaciones** (80 h) - Expertos en Servicios de Consultoría (EXES)
 2. **Responsable experto en Data** (240 h) - Core Networks S.L. Experto en Consultoría y Formación TI
