@@ -1,4 +1,4 @@
-### 2022-2024: Formación en Big Data & Business Intelligence (BI) (más de 1300 horas) ✔️🔥💻
+### 2022-2024: Formación en Big Data & Business Intelligence (BI) (más de 1400 horas) ✔️🔥💻
 
 1. **Data Mining: principios y aplicaciones** (80 h) - Expertos en Servicios de Consultoría (EXES)
 2. **Responsable experto en Data** (240 h) - Core Networks S.L. Experto en Consultoría y Formación TI
@@ -11,6 +11,7 @@
 9. **Data Science: programar en R y Rstudio** - IEBS Business School
 10. **Business Intelligence y análisis de Big Data** (60 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
 11. **Procesamiento de datos con Java** (210 h) -  Grupo Insem Desarrollo del Conocimiento S.L.
+12. **Programación en Python** (90 h) - Centro de Desarrollo de Competencias Digitales de CLM -BILIB
 
  ### 2022-2024: Formación en Artificial Intelligence (AI) & Machine Learning (ML) (más de 600 horas) 🤖🧠📚
 1. **Inteligencia artificial (IA) aplicada a la empresa** (250 h) - Dicampus Centro de aprendizaje Parque Científico y Tecnológico
